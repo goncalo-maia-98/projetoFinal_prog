@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1494176813 source:/home/sara/Desktop/Projeto2/Hubway/functions.c
+
+1494440456 source:/home/sara/Desktop/Projeto2/Hubway/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dados.h"
+	"functions.h"
+
+1494438832 /home/sara/Desktop/Projeto2/Hubway/dados.h
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1494434207 /home/sara/Desktop/Projeto2/Hubway/functions.h
+
